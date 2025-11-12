@@ -1,3 +1,5 @@
+Group Members: Xianqi Deng, Jianxiang Huang, Mohammad Pishbin
+
 What is JSON?
 
 JSON stands for JavaScript Object Notation.
